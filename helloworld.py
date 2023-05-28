@@ -15,3 +15,4 @@ class Python:
 #programming
 obj=Python(5)
 print(obj,type(obj)
+#call
