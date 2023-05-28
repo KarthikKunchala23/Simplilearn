@@ -12,4 +12,6 @@ class Python:
          self.x=x
    return x
 #class
-
+#programming
+obj=Python(5)
+print(obj,type(obj)
