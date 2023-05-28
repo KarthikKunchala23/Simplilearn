@@ -7,3 +7,9 @@ else:
    print('X is less than 2')
 
 #python
+class Python:
+   def __init__(self,x):
+         self.x=x
+   return x
+#class
+
