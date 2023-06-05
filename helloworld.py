@@ -50,14 +50,36 @@ print(z)
 
 #commented
 class Changed:
+<<<<<<< HEAD
     def is_changed(x):
         if x==TRUE:
             return x
         else:
             return x
 
+=======
+
+    def is_changed(x):
+
+        if x==True:
+
+            return x
+
+        else:
+
+            return x
+
+
+
+
+
+>>>>>>> dev4
 is_modified=Changed
 
 res=is_modified.is_changed(True)
 
+<<<<<<< HEAD
 print(res)    
+=======
+print(res)
+>>>>>>> dev4
