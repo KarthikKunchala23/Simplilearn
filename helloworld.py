@@ -49,3 +49,15 @@ print(z)
 #call
 
 #commented
+class Changed:
+    def is_changed(x):
+        if x==TRUE:
+            return x
+        else:
+            return x
+
+is_modified=Changed
+
+res=is_modified.is_changed(True)
+
+print(res)    
